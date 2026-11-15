@@ -1,4 +1,4 @@
-# Hi, I'm Mikko 👋
+# Hi, I'm Mikko!
 
 Indie Developer based in Metro Manila, Philippines.
 
