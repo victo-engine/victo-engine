@@ -12,7 +12,7 @@ I spent years as a marketing professional, close to the work that keeps a busine
 
 | App | What it does |
 |---|---|
-| [Listora](https://listora.app) | Link-in-bio and profile pages built for real estate agents |
+| [Listora](https://listora.app) | Link-in-bio and profile page built for real estate agents |
 | [Klikora](https://klikora.app) | Disposable camera photos for events, revealed after the party |
 | [Perksora](https://perksora.app) | Digital loyalty stamp cards for local businesses |
 
